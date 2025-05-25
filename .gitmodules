@@ -1,0 +1,3 @@
+[submodule "nixos-cli-installer"]
+	path = nixos-cli-installer
+	url = https://github.com/ken-okabe/nixos-cli-installer.git
